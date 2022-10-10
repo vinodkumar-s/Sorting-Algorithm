@@ -20,7 +20,7 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Program:
 i)	Selection Sort
 ## Program to sort the elements in the list using the Selection Sort algorithm.
-## Developed by: s.vinod kumar
+## Developed by:s.vinod kumar
 ## RegisterNumber: 22004903
 ```python 
 def selectionSort(array, size):
