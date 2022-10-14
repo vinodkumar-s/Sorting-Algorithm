@@ -65,8 +65,18 @@ print(list_of_nums)
 
 ```
 
+
+
+
+
 ## Output:
+
+
+
 ![output](/OUTPUT3.png)
+
+
+
 ![output](/OUTPUT4.png)
 
 
